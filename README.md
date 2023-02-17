@@ -1,2 +1,2 @@
 # Useful-R-Snippets
-Random snippets of R code that are useful
+Random snippets of code that are useful
