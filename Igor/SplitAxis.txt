@@ -1,0 +1,10 @@
+To split Axis in Igor
+include SplitAxis
+Graph --> Split Axis Control
+Set Split Position to correct % through trial and error. Keep Split Gap small. Hit Unsplit at bottom of panel to reset
+
+To Change axis range on lower part of axis:
+SetAxis left_P2 min,max
+
+To Change axis range on upper part of axis:
+SetAxis left min,max
